@@ -2,9 +2,13 @@
 
 
 
+<video width="640" height="360" controls>
+    <source src="/Recipe-App2/assets/" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
-https://github.com/AnujaBhise/Recipe-App2/assets/96904529/7620cf5e-5e3b-4631-be96-48613e122c19
+<!--https://github.com/AnujaBhise/Recipe-App2/assets/96904529/7620cf5e-5e3b-4631-be96-48613e122c19-->
 
 
 
